@@ -25,6 +25,13 @@ Vistors
 
 #### Code Stats
 <!--START_SECTION:waka-->
+
+```txt
+Markdown   1 hr 14 mins    ███████████████████▒░░░░░   77.38 %
+YAML       21 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.53 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+```
+
 <!--END_SECTION:waka-->
 
 #### Github Stats
