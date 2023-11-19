@@ -5,9 +5,10 @@ I'm [Benjamin Zhuang](https://benjaminzhuang.com/) a junior Full-Stack Web Devel
 <!-- 📮 Reach me out! -->
 
 - 💻 My favorite programming language at this momemnt: TypeScript.
-- ✅ Most frequently used line of code: `git commit -m 'Here we go again'`.
+- ✅ Most frequently used line of code: `tsrafce`.
 - 🎈 I'm looking for professional growth opportunities and collaboration on outstanding projects.
 - 😄 Pronouns: He/Him.
+- 📝 My favorite IDEs: VSCode, Neovim.
 
 <!-- separator -->
 Top Technologies
