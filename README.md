@@ -1,6 +1,6 @@
 ### Hi I'm Benjamin 👋
 
-I'm [Benjamin Zhuang](https://benjaminzhuang.com/) a junior Full-Stack Web Developer. I spend most of my time coding outstanding projects.
+I'm [Benjamin Zhuang](https://benjaminzhuang.com/) a junior Full-Stack Web Developer.
 
 <!-- 📮 Reach me out! -->
 
