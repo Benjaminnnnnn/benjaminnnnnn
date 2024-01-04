@@ -28,10 +28,10 @@ Vistors
 <!--START_SECTION:waka-->
 
 ```txt
-Lua          6 hrs 58 mins   ██████████▓░░░░░░░░░░░░░░   43.11 %
-Python       2 hrs 45 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.03 %
-TypeScript   1 hr 49 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
-Markdown     39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+Lua          5 hrs 55 mins   █████████▒░░░░░░░░░░░░░░░   37.53 %
+Python       2 hrs 48 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.80 %
+TypeScript   2 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.89 %
+Markdown     37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
 ```
 
 <!--END_SECTION:waka-->
