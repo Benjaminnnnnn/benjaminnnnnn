@@ -28,10 +28,10 @@ Vistors
 <!--START_SECTION:waka-->
 
 ```txt
-Go           3 hrs 45 mins   ███████████▒░░░░░░░░░░░░░   45.59 %
-Rust         2 hrs 37 mins   ████████░░░░░░░░░░░░░░░░░   31.96 %
-TypeScript   1 hr 37 mins    █████░░░░░░░░░░░░░░░░░░░░   19.66 %
-Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Go           3 hrs 45 mins   ███████████▓░░░░░░░░░░░░░   47.31 %
+Rust         2 hrs 37 mins   ████████▒░░░░░░░░░░░░░░░░   33.12 %
+TypeScript   1 hr 19 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.66 %
+Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
