@@ -28,11 +28,7 @@ Vistors
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         1 hr 5 mins     ███████████████░░░░░░░░░░   60.50 %
-TypeScript   41 mins         █████████▒░░░░░░░░░░░░░░░   37.76 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-gitignore    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
