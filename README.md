@@ -28,10 +28,10 @@ Vistors
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 28 mins    ████████████▓░░░░░░░░░░░░   50.78 %
-Go           1 hr 2 mins     █████████░░░░░░░░░░░░░░░░   35.85 %
-JavaScript   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
-Other        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+TypeScript   1 hr 28 mins    ███████████████████▓░░░░░   79.07 %
+JavaScript   7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
+Other        5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+GraphQL      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
