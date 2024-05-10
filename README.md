@@ -28,9 +28,7 @@ Vistors
 <!--START_SECTION:waka-->
 
 ```txt
-Text     9 mins          ████████████████▓░░░░░░░░   66.07 %
-YAML     2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.24 %
-Python   2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
