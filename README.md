@@ -28,7 +28,7 @@ Vistors
 <!--START_SECTION:waka-->
 
 ```txt
-Go     13 mins         ██████████░░░░░░░░░░░░░░░   40.12 %
+
 ```
 
 <!--END_SECTION:waka-->
