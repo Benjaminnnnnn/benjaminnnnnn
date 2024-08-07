@@ -28,8 +28,7 @@ Vistors
 <!--START_SECTION:waka-->
 
 ```txt
-Go           2 mins          █████████████████████░░░░   83.52 %
-TypeScript   0 secs          ████░░░░░░░░░░░░░░░░░░░░░   16.48 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
