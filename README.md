@@ -28,7 +28,8 @@ Vistors
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go    1 min           █████████████████▒░░░░░░░   69.77 %
+Lua   0 secs          ███████▓░░░░░░░░░░░░░░░░░   30.23 %
 ```
 
 <!--END_SECTION:waka-->
