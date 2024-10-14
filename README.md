@@ -28,10 +28,10 @@ Vistors
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 27 mins    ███████████████████░░░░░░   75.83 %
-Git Config   7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
-TSConfig     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+TypeScript   4 hrs 18 mins   ███████████████████▓░░░░░   79.14 %
+Python       33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
+Git Config   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
