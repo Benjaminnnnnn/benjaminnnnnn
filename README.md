@@ -28,9 +28,9 @@ Vistors
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   52 mins         ████████████▒░░░░░░░░░░░░   49.99 %
-TypeScript   45 mins         ███████████░░░░░░░░░░░░░░   43.76 %
-TSConfig     3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+JavaScript   1 hr 6 mins     ██████████████░░░░░░░░░░░   56.08 %
+TypeScript   45 mins         █████████▓░░░░░░░░░░░░░░░   38.43 %
+TSConfig     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
 ```
 
 <!--END_SECTION:waka-->
