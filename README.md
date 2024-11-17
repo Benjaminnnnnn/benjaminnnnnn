@@ -28,8 +28,7 @@ Vistors
 <!--START_SECTION:waka-->
 
 ```txt
-Python   10 mins         ███████████████░░░░░░░░░░   59.41 %
-Lua      5 mins          ████████░░░░░░░░░░░░░░░░░   32.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
