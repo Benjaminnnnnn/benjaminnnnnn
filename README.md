@@ -28,7 +28,10 @@ Vistors
 <!--START_SECTION:waka-->
 
 ```txt
-Python   10 mins         █████████████████████████   100.00 %
+JavaScript    2 hrs 4 mins    █████████████████▓░░░░░░░   71.19 %
+HTML          7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+Lua           5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Bash          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
