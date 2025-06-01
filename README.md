@@ -8,7 +8,7 @@ I'm [Benjamin Zhuang](https://benjaminzhuang.com/) a junior Full-Stack Web Devel
 - ✅ Most frequently used line of code: `tsrafce`.
 - 🎈 I'm looking for professional growth opportunities and collaboration on outstanding projects.
 - 😄 Pronouns: He/Him.
-- 📝 My favorite IDEs: VSCode, Neovim.
+- 📝 My favorite IDEs: Cursor, VSCode, Neovim.
 
 <!-- separator -->
 Top Technologies
