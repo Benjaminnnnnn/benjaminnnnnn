@@ -28,9 +28,7 @@ Vistors
 <!--START_SECTION:waka-->
 
 ```txt
-Python   44 mins         █████████████████████▒░░░   85.39 %
-Bash     6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
-Docker   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Python   44 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
