@@ -28,9 +28,8 @@ Vistors
 <!--START_SECTION:waka-->
 
 ```txt
-Python     42 mins         █████████████████░░░░░░░░   68.48 %
-Markdown   16 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.47 %
-Bash       3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+Markdown   16 mins         █████████████░░░░░░░░░░░░   51.84 %
+Python     15 mins         ████████████░░░░░░░░░░░░░   48.16 %
 ```
 
 <!--END_SECTION:waka-->
