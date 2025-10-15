@@ -28,8 +28,7 @@ Vistors
 <!--START_SECTION:waka-->
 
 ```txt
-Other   0 secs          ██████████████▒░░░░░░░░░░   57.93 %
-Alloy   0 secs          ██████████▓░░░░░░░░░░░░░░   42.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
