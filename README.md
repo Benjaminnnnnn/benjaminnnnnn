@@ -1,6 +1,6 @@
 ### Hi I'm Benjamin 👋
 
-I'm [Benjamin Zhuang](https://benjaminzhuang.com/) a junior Full-Stack Web Developer.
+I'm [Benjamin Zhuang](https://benjaminnnnnn.github.io/portfolio/), a Full-Stack Web Developer.
 
 <!-- 📮 Reach me out! -->
 
@@ -8,7 +8,7 @@ I'm [Benjamin Zhuang](https://benjaminzhuang.com/) a junior Full-Stack Web Devel
 - ✅ Most frequently used line of code: `tsrafce`.
 - 🎈 I'm looking for professional growth opportunities and collaboration on outstanding projects.
 - 😄 Pronouns: He/Him.
-- 📝 My favorite IDEs: Cursor, VSCode, Neovim.
+- 📝 My favorite IDEs: VSCode, Neovim.
 
 <!-- separator -->
 Top Technologies
