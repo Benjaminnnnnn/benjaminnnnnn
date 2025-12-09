@@ -28,7 +28,11 @@ Vistors
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   1 hr 14 mins    ██████████████████████░░░   87.98 %
+Git          3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+HTML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+gitrebase    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
