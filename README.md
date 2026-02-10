@@ -28,8 +28,9 @@ Vistors
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   16 mins         ████████████████████████▓   98.81 %
+JavaScript   16 mins         ████████████████████████▓   98.32 %
 CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
