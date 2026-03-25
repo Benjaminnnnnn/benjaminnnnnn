@@ -28,10 +28,7 @@ Vistors
 <!--START_SECTION:waka-->
 
 ```txt
-conf    8 mins                ████████████▒░░░░░░░░░░░░   48.89 %
-Bash    4 mins                ██████▒░░░░░░░░░░░░░░░░░░   25.35 %
-Other   4 mins                ██████░░░░░░░░░░░░░░░░░░░   24.65 %
-XML     0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
