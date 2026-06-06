@@ -28,7 +28,10 @@ Vistors
 <!--START_SECTION:waka-->
 
 ```txt
-Bash   0 secs                █████████████████████████   100.00 %
+TypeScript   1 hr 29 mins          █████████████░░░░░░░░░░░░   51.38 %
+Markdown     1 hr 5 mins           █████████▒░░░░░░░░░░░░░░░   37.58 %
+Bash         6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+TSConfig     3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->
