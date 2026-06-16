@@ -28,8 +28,8 @@ Vistors
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     10 mins               █████████████████▓░░░░░░░   70.46 %
-Git Config   4 mins                ███████▒░░░░░░░░░░░░░░░░░   29.54 %
+Markdown     14 mins               ███████████████████▓░░░░░   78.05 %
+Git Config   4 mins                █████▒░░░░░░░░░░░░░░░░░░░   21.95 %
 ```
 
 <!--END_SECTION:waka-->
