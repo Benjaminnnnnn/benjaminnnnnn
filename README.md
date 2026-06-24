@@ -28,8 +28,9 @@ Vistors
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   17 mins               ████████████████▒░░░░░░░░   65.53 %
-dosini       4 mins                ████▒░░░░░░░░░░░░░░░░░░░░   17.57 %
+TypeScript   1 hr 49 mins          ███████████████▒░░░░░░░░░   61.71 %
+Markdown     46 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.43 %
+Bash         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
