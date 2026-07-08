@@ -28,8 +28,8 @@ Vistors
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 6 mins          ████████████████████████▒   97.43 %
-Markdown     3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+TypeScript   1 hr 44 mins          ███████████████████████▒░   92.67 %
+Markdown     8 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
 ```
 
 <!--END_SECTION:waka-->
