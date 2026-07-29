@@ -28,7 +28,8 @@ Vistors
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   26 mins               █████████████████████████   100.00 %
+Markdown   30 mins               ██████████████████▒░░░░░░   72.76 %
+Bash       1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
 ```
 
 <!--END_SECTION:waka-->
