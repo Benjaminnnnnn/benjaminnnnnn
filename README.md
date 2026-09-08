@@ -28,11 +28,11 @@ Vistors
 <!--START_SECTION:waka-->
 
 ```txt
-Swift             14 hrs 27 mins        ███████████░░░░░░░░░░░░░░   44.20 %
-Markdown          4 hrs 27 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
-Other             3 hrs 43 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
-Python            3 hrs 37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
-Terraform         2 hrs 54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
+Swift             8 hrs 29 mins         ████████░░░░░░░░░░░░░░░░░   31.41 %
+Markdown          4 hrs 13 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.61 %
+Python            3 hrs 58 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 %
+Other             3 hrs 49 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
+Terraform         3 hrs                 ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 %
 ```
 
 <!--END_SECTION:waka-->
