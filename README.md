@@ -28,10 +28,9 @@ Vistors
 <!--START_SECTION:waka-->
 
 ```txt
-Python      1 hr 50 mins          █████████░░░░░░░░░░░░░░░░   36.44 %
-Markdown    1 hr 28 mins          ███████▒░░░░░░░░░░░░░░░░░   29.01 %
-Other       40 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
-Terraform   5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Markdown   1 hr 37 mins          ████████░░░░░░░░░░░░░░░░░   32.65 %
+Python     1 hr 29 mins          ███████▒░░░░░░░░░░░░░░░░░   29.86 %
+Other      34 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
 ```
 
 <!--END_SECTION:waka-->
